@@ -2,7 +2,7 @@
 <phpunit bootstrap="./vendor/autoload.php" colors="true">
 
     <testsuites>
-        <testsuite name="Donuz API - Biblioteca para PHP">
+        <testsuite name="PHPHttpRequest is a simple PHP HTTP client library">
             <directory>./tests</directory>
         </testsuite>
     </testsuites>
